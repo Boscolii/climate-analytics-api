@@ -42,6 +42,14 @@ A API estará disponível em:
 http://localhost:8000
 ```
 
+###AWS Demo
+
+A API também está rodando em uma instância na AWS EC2:
+
+http://54.207.66.63:8000/docs
+ 
+Este servidor está hospedado em uma instância EC2 de teste e pode ficar indisponível caso a instância esteja desligada.
+
 ## Exemplo de requisição
 
 ```
